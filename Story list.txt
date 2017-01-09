@@ -1,0 +1,6 @@
+input first items
+input 2nd item
+see a total
+input state
+see discount level
+see tax total
