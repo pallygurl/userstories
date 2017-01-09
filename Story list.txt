@@ -1,6 +1,9 @@
-input first items
+As a user I want to:
+
+input first item
 input 2nd item
-see a total
-input state
-see discount level
-see tax total
+see a price total
+input my state
+see my tax total
+see my total price
+see my discount level
